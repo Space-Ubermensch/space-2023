@@ -1,3 +1,5 @@
 MIDIUtil==1.2.1
 Pillow==10.0.1
 numpy==1.25.0
+moviepy==1.0.3
+cv2==3.4.2
